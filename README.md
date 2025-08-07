@@ -2,6 +2,7 @@
 A simple Python script to scrape the latest news headlines from any HTML-based news website using the requests and BeautifulSoup libraries.
 
 Features
+
 -> Sends an HTTP request to a news website.
 
 -> Extracts headlines from 'h2' tags that contain 'a' tags.
